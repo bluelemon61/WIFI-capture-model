@@ -1,0 +1,42 @@
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/IIIT5k_3000	 dataset: /
+sub-directory:	/.	 num samples: 3000
+Acc 32.933	 normalized_ED 0.478
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/SVT	 dataset: /
+sub-directory:	/.	 num samples: 647
+Acc 48.068	 normalized_ED 0.623
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/IC03_860	 dataset: /
+sub-directory:	/.	 num samples: 860
+Acc 17.558	 normalized_ED 0.438
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/IC03_867	 dataset: /
+sub-directory:	/.	 num samples: 867
+Acc 38.985	 normalized_ED 0.510
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/IC13_857	 dataset: /
+sub-directory:	/.	 num samples: 857
+Acc 18.903	 normalized_ED 0.482
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/IC13_1015	 dataset: /
+sub-directory:	/.	 num samples: 1015
+Acc 32.512	 normalized_ED 0.434
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/IC15_1811	 dataset: /
+sub-directory:	/.	 num samples: 1811
+Acc 30.039	 normalized_ED 0.487
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/IC15_2077	 dataset: /
+sub-directory:	/.	 num samples: 2054
+Acc 40.506	 normalized_ED 0.671
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/SVTP	 dataset: /
+sub-directory:	/.	 num samples: 645
+Acc 33.488	 normalized_ED 0.536
+--------------------------------------------------------------------------------
+dataset_root:    data/evaluation/CUTE80	 dataset: /
+sub-directory:	/.	 num samples: 288
+Acc 39.583	 normalized_ED 0.638
+--------------------------------------------------------------------------------
+accuracy: IIIT5k_3000: 32.933	SVT: 48.068	IC03_860: 17.558	IC03_867: 38.985	IC13_857: 18.903	IC13_1015: 32.512	IC15_1811: 30.039	IC15_2077: 40.506	SVTP: 33.488	CUTE80: 39.583	total_accuracy: 33.095	averaged_infer_time: 5.547	# parameters: 49.629

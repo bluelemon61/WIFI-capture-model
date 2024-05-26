@@ -1,0 +1,192 @@
+[1/60000] Train loss: 4.56912, Valid loss: 4.55604, Elapsed_time: 13.30415
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+JOHN                      | ~c~~~~~~~~~~~~~~~~~~~~~~~ | 0.0000	False
+SEPHORA                   | ~~~~~~~~~~~~~~~~~~~~~~~~~ | 0.0000	False
+BLOCK                     | ~~~c~~~~~~~~~~~~~~~~~~~~~ | 0.0000	False
+NO                        | ~~c~~~~~~~~~~~~~~~~~~~~~~ | 0.0000	False
+PANERAI                   | ~cc~~~~~~~~~~~~~~~~~~~~~~ | 0.0000	False
+--------------------------------------------------------------------------------
+[2000/60000] Train loss: 2.43874, Valid loss: 3.16760, Elapsed_time: 1925.31498
+Current_accuracy : 4.133, Current_norm_ED  : 0.32
+Best_accuracy    : 4.133, Best_norm_ED     : 0.32
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Calvin                    | Cobun                     | 0.0021	False
+Serenity                  | Sestingly                 | 0.0001	False
+Culture                   | Sustess                   | 0.0002	False
+L12                       | La                        | 0.0480	False
+Carpark                   | Carppats                  | 0.0101	False
+--------------------------------------------------------------------------------
+[4000/60000] Train loss: 0.74079, Valid loss: 1.99853, Elapsed_time: 3835.57656
+Current_accuracy : 37.900, Current_norm_ED  : 0.61
+Best_accuracy    : 37.900, Best_norm_ED     : 0.61
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+STOP                      | SIOR                      | 0.1018	False
+162                       | ise                       | 0.1113	False
+CHUTNEYS                  | CHUTNEYS                  | 0.5442	True
+West                      | West                      | 0.9043	True
+LEONARDO                  | LEONARDO                  | 0.6261	True
+--------------------------------------------------------------------------------
+[6000/60000] Train loss: 0.37946, Valid loss: 2.15507, Elapsed_time: 5742.72951
+Current_accuracy : 43.636, Current_norm_ED  : 0.63
+Best_accuracy    : 43.636, Best_norm_ED     : 0.63
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Lift                      | Lift                      | 0.8353	True
+PRICE                     | TRICE                     | 0.1855	False
+havaianas                 | havaianas                 | 0.4531	True
+skincare                  | skincere                  | 0.6926	False
+COFFEE                    | coffee                    | 0.2460	False
+--------------------------------------------------------------------------------
+[8000/60000] Train loss: 0.30468, Valid loss: 2.06567, Elapsed_time: 7649.95494
+Current_accuracy : 46.911, Current_norm_ED  : 0.65
+Best_accuracy    : 46.911, Best_norm_ED     : 0.65
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+our                       | for                       | 0.0585	False
+MAKE                      | MAKI                      | 0.3050	False
+JOVOVICH                  | JOVOVCH                   | 0.3277	False
+Dine                      | Dine                      | 0.9875	True
+SPEEDER                   | SPEEDER                   | 0.8996	True
+--------------------------------------------------------------------------------
+[10000/60000] Train loss: 0.26274, Valid loss: 2.06289, Elapsed_time: 9557.74584
+Current_accuracy : 49.399, Current_norm_ED  : 0.66
+Best_accuracy    : 49.399, Best_norm_ED     : 0.66
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+POST                      | POST                      | 0.5615	True
+fourskin                  | foursin                   | 0.3109	False
+Bon                       | Bow                       | 0.3686	False
+MAN                       | MAN                       | 0.4241	True
+AGENCY                    | AGENCY                    | 0.9068	True
+--------------------------------------------------------------------------------
+[12000/60000] Train loss: 0.23890, Valid loss: 1.97647, Elapsed_time: 11463.69765
+Current_accuracy : 52.646, Current_norm_ED  : 0.70
+Best_accuracy    : 52.646, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+TARGET                    | TARGET                    | 0.9422	True
+RIGHT                     | RIGHT                     | 0.8152	True
+MEDICAL                   | MEDICAL                   | 0.9360	True
+USUAL                     | USUAL                     | 0.8936	True
+WASHINGTON                | WASHINGTON                | 0.7020	True
+--------------------------------------------------------------------------------
+[14000/60000] Train loss: 0.21811, Valid loss: 2.19994, Elapsed_time: 13370.52574
+Current_accuracy : 50.987, Current_norm_ED  : 0.67
+Best_accuracy    : 52.646, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+COURT                     | Court                     | 0.9930	False
+Ion                       | lon                       | 0.3049	False
+COM                       | com                       | 0.9639	False
+DIRECTOR                  | DIAUCTOR                  | 0.1133	False
+DESERVE                   | deserve                   | 0.9945	False
+--------------------------------------------------------------------------------
+[16000/60000] Train loss: 0.20664, Valid loss: 1.97392, Elapsed_time: 15276.33933
+Current_accuracy : 53.690, Current_norm_ED  : 0.70
+Best_accuracy    : 53.690, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+TOPSHOP                   | TOPSHOP                   | 0.9044	True
+2298                      | 2293                      | 0.3832	False
+SALE                      | SALE                      | 0.8446	True
+HAIR                      | HAIR                      | 0.4563	True
+SHOPS                     | SHOPS                     | 0.8754	True
+--------------------------------------------------------------------------------
+[18000/60000] Train loss: 0.19268, Valid loss: 2.04174, Elapsed_time: 17183.22140
+Current_accuracy : 52.503, Current_norm_ED  : 0.68
+Best_accuracy    : 53.690, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Samantha                  | Samantha                  | 0.9704	True
+This                      | This                      | 0.9981	True
+635                       | 635                       | 0.9267	True
+EMBASSY                   | EMBASSY                   | 0.9313	True
+WORLD                     | MORLD                     | 0.1601	False
+--------------------------------------------------------------------------------
+[20000/60000] Train loss: 0.18358, Valid loss: 2.15401, Elapsed_time: 19089.37664
+Current_accuracy : 52.674, Current_norm_ED  : 0.67
+Best_accuracy    : 53.690, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+FRESH                     | FRESH                     | 0.9263	True
+SyncMaster                | Syncivaster               | 0.5504	False
+CAMDEN                    | CAMIDEN                   | 0.0634	False
+DOES                      | Does                      | 0.9954	False
+FOR                       | FOR                       | 0.9209	True
+--------------------------------------------------------------------------------
+[22000/60000] Train loss: 0.17548, Valid loss: 2.26465, Elapsed_time: 20995.13382
+Current_accuracy : 52.531, Current_norm_ED  : 0.67
+Best_accuracy    : 53.690, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+AVENUE                    | Avenue                    | 0.9961	False
+STYLE                     | STYLE                     | 0.5749	True
+CITY                      | CITY                      | 0.4769	True
+ORGANIC                   | organic                   | 0.9954	False
+BRASS                     | Brass                     | 0.9968	False
+--------------------------------------------------------------------------------
+[24000/60000] Train loss: 0.16889, Valid loss: 2.38506, Elapsed_time: 22897.90565
+Current_accuracy : 51.073, Current_norm_ED  : 0.65
+Best_accuracy    : 53.690, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Grand                     | One                       | 0.0400	False
+1                         | 1                         | 0.6575	True
+Clementi                  | Clementi                  | 0.4977	True
+BROWN                     | bromn                     | 0.1980	False
+British                   | British                   | 0.9991	True
+--------------------------------------------------------------------------------
+[26000/60000] Train loss: 0.16463, Valid loss: 2.12409, Elapsed_time: 24800.96899
+Current_accuracy : 55.664, Current_norm_ED  : 0.69
+Best_accuracy    : 55.664, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+SKYLIGHT                  | SKYLIGHT                  | 0.9109	True
+ADVERTISING               | Advertising               | 0.9871	False
+SANGAM                    | sangammed                 | 0.0660	False
+NOV                       | NOV                       | 0.5605	True
+LIKE                      | LIKE                      | 0.4330	True
+--------------------------------------------------------------------------------
+[28000/60000] Train loss: 0.16246, Valid loss: 2.24295, Elapsed_time: 26703.82973
+Current_accuracy : 54.677, Current_norm_ED  : 0.68
+Best_accuracy    : 55.664, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+SAXONS                    | SAXONS                    | 0.8377	True
+SECRET                    | Secret                    | 0.8918	False
+TO                        | TO                        | 0.4411	True
+ALE                       | AP                        | 0.0250	False
+shu                       | 3ny                       | 0.0495	False
+--------------------------------------------------------------------------------
+[30000/60000] Train loss: 0.15269, Valid loss: 2.21291, Elapsed_time: 28608.94956
+Current_accuracy : 53.690, Current_norm_ED  : 0.68
+Best_accuracy    : 55.664, Best_norm_ED     : 0.70
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+SAL                       | SAL                       | 0.5772	True
+BreadTalk                 | Breadlalk                 | 0.5348	False
+PEOPLE                    | people                    | 0.9991	False
+Bus                       | Bus                       | 0.9576	True
+POINT                     | Point                     | 0.9841	False
+--------------------------------------------------------------------------------
