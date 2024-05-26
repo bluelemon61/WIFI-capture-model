@@ -1,3 +1,4 @@
 **/data_lmdb_release/*
 *.pth
 deep-text-recognition-benchmark/
+TextRecognitionDataGenerator/
