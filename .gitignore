@@ -1,4 +1,5 @@
 **/data_lmdb_release/*
 *.pth
+*.onnx
 deep-text-recognition-benchmark/
 TextRecognitionDataGenerator/
