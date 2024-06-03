@@ -1,0 +1,79 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./deep-text-recognition-benchmark/demo_image/demo_1.png	-:L:L:L-L                	0.0182
+./deep-text-recognition-benchmark/demo_image/demo_2.jpg	*.__~__[____;5:_4_4,:L9: 	0.0006
+./deep-text-recognition-benchmark/demo_image/demo_3.png	t''yi['|p|'||'4$+IFi'#|/|	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_4.png	'E-,.-.e-y-'$-F-I-'|     	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_5.png	I-M-Mm~m+,E,'4:';'4      	0.0020
+./deep-text-recognition-benchmark/demo_image/demo_6.png	"'W4L#*|.*t#*-*-F^f*fi^N^	0.0002
+./deep-text-recognition-benchmark/demo_image/demo_7.png	laGG:'g|'@4L0iU-c|       	0.0004
+./deep-text-recognition-benchmark/demo_image/demo_8.jpg	.4LsP~`~`~F-e.'          	0.0181
+./deep-text-recognition-benchmark/demo_image/demo_9.jpg	--g:-..f~f~"";,*f4,e-tg._	0.0098
+./deep-text-recognition-benchmark/demo_image/demo_10.jpg	-,_._._"`"**#+'5L'[`     	0.0131
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./deep-text-recognition-benchmark/demo_image/demo_1.png	-:L:L:L-L                	0.0182
+./deep-text-recognition-benchmark/demo_image/demo_2.jpg	*.__~__[____;5:_4_4,:L9: 	0.0006
+./deep-text-recognition-benchmark/demo_image/demo_3.png	t''yi['|p|'||'4$+IFi'#|/|	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_4.png	'E-,.-.e-y-'$-F-I-'|     	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_5.png	I-M-Mm~m+,E,'4:';'4      	0.0020
+./deep-text-recognition-benchmark/demo_image/demo_6.png	"'W4L#*|.*t#*-*-F^f*fi^N^	0.0002
+./deep-text-recognition-benchmark/demo_image/demo_7.png	laGG:'g|'@4L0iU-c|       	0.0004
+./deep-text-recognition-benchmark/demo_image/demo_8.jpg	.4LsP~`~`~F-e.'          	0.0181
+./deep-text-recognition-benchmark/demo_image/demo_9.jpg	--g:-..f~f~"";,*f4,e-tg._	0.0098
+./deep-text-recognition-benchmark/demo_image/demo_10.jpg	-,_._._"`"**#+'5L'[`     	0.0131
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./deep-text-recognition-benchmark/demo_image/demo_1.png	-:L:L:L-L                	0.0182
+./deep-text-recognition-benchmark/demo_image/demo_2.jpg	*.__~__[____;5:_4_4,:L9: 	0.0006
+./deep-text-recognition-benchmark/demo_image/demo_3.png	t''yi['|p|'||'4$+IFi'#|/|	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_4.png	'E-,.-.e-y-'$-F-I-'|     	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_5.png	I-M-Mm~m+,E,'4:';'4      	0.0020
+./deep-text-recognition-benchmark/demo_image/demo_6.png	"'W4L#*|.*t#*-*-F^f*fi^N^	0.0002
+./deep-text-recognition-benchmark/demo_image/demo_7.png	laGG:'g|'@4L0iU-c|       	0.0004
+./deep-text-recognition-benchmark/demo_image/demo_8.jpg	.4LsP~`~`~F-e.'          	0.0181
+./deep-text-recognition-benchmark/demo_image/demo_9.jpg	--g:-..f~f~"";,*f4,e-tg._	0.0098
+./deep-text-recognition-benchmark/demo_image/demo_10.jpg	-,_._._"`"**#+'5L'[`     	0.0131
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./deep-text-recognition-benchmark/demo_image/demo_1.png	-:L:L:L-L                	0.0182
+./deep-text-recognition-benchmark/demo_image/demo_2.jpg	*.__~__[____;5:_4_4,:L9: 	0.0006
+./deep-text-recognition-benchmark/demo_image/demo_3.png	t''yi['|p|'||'4$+IFi'#|/|	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_4.png	'E-,.-.e-y-'$-F-I-'|     	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_5.png	I-M-Mm~m+,E,'4:';'4      	0.0020
+./deep-text-recognition-benchmark/demo_image/demo_6.png	"'W4L#*|.*t#*-*-F^f*fi^N^	0.0002
+./deep-text-recognition-benchmark/demo_image/demo_7.png	laGG:'g|'@4L0iU-c|       	0.0004
+./deep-text-recognition-benchmark/demo_image/demo_8.jpg	.4LsP~`~`~F-e.'          	0.0181
+./deep-text-recognition-benchmark/demo_image/demo_9.jpg	--g:-..f~f~"";,*f4,e-tg._	0.0098
+./deep-text-recognition-benchmark/demo_image/demo_10.jpg	-,_._._"`"**#+'5L'[`     	0.0131
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./deep-text-recognition-benchmark/demo_image/demo_1.png	-:L:L:L-L                	0.0182
+./deep-text-recognition-benchmark/demo_image/demo_2.jpg	*.__~__[____;5:_4_4,:L9: 	0.0006
+./deep-text-recognition-benchmark/demo_image/demo_3.png	t''yi['|p|'||'4$+IFi'#|/|	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_4.png	'E-,.-.e-y-'$-F-I-'|     	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_5.png	I-M-Mm~m+,E,'4:';'4      	0.0020
+./deep-text-recognition-benchmark/demo_image/demo_6.png	"'W4L#*|.*t#*-*-F^f*fi^N^	0.0002
+./deep-text-recognition-benchmark/demo_image/demo_7.png	laGG:'g|'@4L0iU-c|       	0.0004
+./deep-text-recognition-benchmark/demo_image/demo_8.jpg	.4LsP~`~`~F-e.'          	0.0181
+./deep-text-recognition-benchmark/demo_image/demo_9.jpg	--g:-..f~f~"";,*f4,e-tg._	0.0098
+./deep-text-recognition-benchmark/demo_image/demo_10.jpg	-,_._._"`"**#+'5L'[`     	0.0131
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./deep-text-recognition-benchmark/demo_image/demo_0.png	t&sNps4e                 	0.4651
+./deep-text-recognition-benchmark/demo_image/demo_1.png	-:L:L:L-L                	0.0182
+./deep-text-recognition-benchmark/demo_image/demo_2.jpg	*.__~__[____;5:_4_4,:L9: 	0.0006
+./deep-text-recognition-benchmark/demo_image/demo_3.png	t''yi['|p|'||'4$+IFi'#|/|	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_4.png	'E-,.-.e-y-'$-F-I-'|     	0.0001
+./deep-text-recognition-benchmark/demo_image/demo_5.png	I-M-Mm~m+,E,'4:';'4      	0.0020
+./deep-text-recognition-benchmark/demo_image/demo_6.png	"'W4L#*|.*t#*-*-F^f*fi^N^	0.0002
+./deep-text-recognition-benchmark/demo_image/demo_7.png	laGG:'g|'@4L0iU-c|       	0.0004
+./deep-text-recognition-benchmark/demo_image/demo_8.jpg	.4LsP~`~`~F-e.'          	0.0181
+./deep-text-recognition-benchmark/demo_image/demo_9.jpg	--g:-..f~f~"";,*f4,e-tg._	0.0098
+./deep-text-recognition-benchmark/demo_image/demo_10.jpg	-,_._._"`"**#+'5L'[`     	0.0131

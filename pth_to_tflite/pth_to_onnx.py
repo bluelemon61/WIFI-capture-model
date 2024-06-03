@@ -34,7 +34,7 @@ class Model(nn.Module):
     
     self.FeatureExtraction = ResNet_FeatureExtractor(input_channel, output_channel)
     self.FeatureExtraction_output = output_channel
-    self.AdaptiveAvgPool = nn.AdaptiveAvgPool2d((32, 1)) # warning, origin is (None, 1)
+    self.AdaptiveAvgPool = nn.AdaptiveAvgPool2d((512, 1)) # warning, origin is (None, 1)
 
     
     self.SequenceModeling = nn.Sequential(
@@ -70,7 +70,7 @@ class Model(nn.Module):
 
 
 # 파일 경로 확인
-file_name = 'best_accuracy_24052602.pth'
+file_name = 'target.pth'
 file_path = os.path.join(os.path.dirname(__file__), file_name)
 
 # 파일이 존재하는지 확인
