@@ -54,7 +54,10 @@ ort_outputs = ort_session.run(None, ort_inputs)
 # np.testing.assert_allclose(to_numpy(torch_out), preds[0], rtol=1e-03, atol=1e-05)
 
 preds = torch.tensor(ort_outputs[0])
+for i in preds[0]:
+    print(f'preds: {i}')
 _, preds_index = preds.max(2)
+print(f'index: {preds_index}')
 length_for_pred = torch.IntTensor([batch_max_length] * 1)
 print(length_for_pred)
 preds_str = converter.decode(preds_index, length_for_pred)
