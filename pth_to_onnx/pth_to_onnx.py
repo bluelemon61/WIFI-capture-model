@@ -70,7 +70,7 @@ class Model(nn.Module):
 
 
 # 파일 경로 확인
-file_name = 'target.pth'
+file_name = 'pretrained.pth'
 file_path = os.path.join(os.path.dirname(__file__), file_name)
 
 # 파일이 존재하는지 확인
@@ -102,7 +102,7 @@ example_text = torch.randint(0, num_classes, (1, batch_max_length+1), dtype=torc
 if isinstance(model, nn.DataParallel):
     model = model.module
 
-onnx_file_path = "model.onnx"
+onnx_file_path = "pretrained.onnx"
 torch.onnx.export(
     model,                                     # PyTorch 모델
     (example_input, example_text),             # 예제 입력 튜플

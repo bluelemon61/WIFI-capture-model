@@ -31,7 +31,7 @@ img = img.unsqueeze(0)
 print(img.shape)
 
 
-model_name = "model.onnx"
+model_name = "pretrained.onnx"
 model_path = os.path.join(os.path.dirname(__file__), model_name)
 onnx_model = onnx.load(model_path)
 onnx.checker.check_model(onnx_model)
