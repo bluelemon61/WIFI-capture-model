@@ -1,4 +1,7 @@
 # Wifi-Password-Regconization-model
+WIFI Connector Android 앱에 들어갈 OCR 모델
+
+[WIFI Connector android app repository](https://github.com/kyoutae1234/wifiConnector)
 
 ## Preprocessing
 ``` shell
